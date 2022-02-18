@@ -9,8 +9,10 @@ public class Addition {
         System.out.println ("Please enter the number");
         int a =sc.nextInt();
         int b =sc.nextInt();
+        int c =sc.nextInt();
+
         //int a = 10, b = 20;
-        int c = a + b;
-        System.out.println("The sum of numbers is: a and b  " + c);
+        int d = a + b +c ;
+        System.out.println("The sum of numbers is: Number a , Number b  and Number c  " + d);
     }
 }
