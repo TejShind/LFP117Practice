@@ -11,6 +11,6 @@ public class Addition {
         int b =sc.nextInt();
         //int a = 10, b = 20;
         int c = a + b;
-        System.out.println("The sum of numbers is: " + c);
+        System.out.println("The sum of numbers is: a and b  " + c);
     }
 }
